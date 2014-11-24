@@ -18,5 +18,6 @@
   <depend package="slam/sonar_octomap" />
   <depend package="slam/octomap_wrapper" />
   <depend package="slam/odometry" />
+  <depend package="slam/eslam" />
   <depend package="base/types" />
 </package>
